@@ -51,13 +51,13 @@ class WeekData {
 
 	public static function createWeekFile():WeekFile {
 		var weekFile:WeekFile = {
-			songs: [["Bopeebo", "dad", [146, 113, 253]], ["Fresh", "dad", [146, 113, 253]], ["Dad Battle", "dad", [146, 113, 253]]],
-			weekCharacters: ['dad', 'bf', 'gf'],
+			songs: [["discharge", "evil-bf", [0, 0, 0]], ["discharge v2", "evil-bf", [0, 0, 0]]]
+			weekCharacters: ['', 'bf', ''],
 			weekBackground: 'stage',
 			weekBefore: 'tutorial',
-			storyName: 'Your New Week',
-			weekName: 'Custom Week',
-			freeplayColor: [146, 113, 253],
+			storyName: 'Vs Soul',
+			weekName: 'week1',
+			freeplayColor: [0, 0, 0],
 			startUnlocked: true,
 			hiddenUntilUnlocked: false,
 			hideStoryMode: false,
